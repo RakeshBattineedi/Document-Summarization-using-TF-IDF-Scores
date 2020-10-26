@@ -1,7 +1,7 @@
 # Document-Summarization-using-TF-IDF-Scores
 
 Objectives
-The goal of this project is to enable you to gain experience in:
+The goal of this project is to gain experience in:
 
 · Creating an authorship identification system based on the similarity of the author’s attributes
 
